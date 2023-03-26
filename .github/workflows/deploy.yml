@@ -15,8 +15,7 @@ jobs:
       - name: Install Required Packages 
         run: npm install vercel
       - name: Get Vercel Project Information
-        run: vercel pull --yes --environment=production
-        --token=7ENWI6fcz75siafFSCR95rIn
+        run: vercel pull --yes --environment=production --token=7ENWI6fcz75siafFSCR95rIn
       - name: Build Project Artifacts
         run: vercel build --prod --token=7ENWI6fcz75siafFSCR95rIn
       - name: Deploy Project Artifacts to Vercel
