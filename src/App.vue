@@ -7,10 +7,15 @@ import Section1 from './components/Section1.vue'
   <header>
     <div class="wrapper">
       <Title msg="An Average Intermediate Developer" />
+      <svg height="5" width="100%">
+        <line x1="0" y1="0" x2="20" y2="0"
+        style="stroke:rgb(0,0,0);stroke-width:1" />
+       </svg>
     </div>
   </header>
 
   <main>
+    <br>
     <Section1></Section1>
   </main>
 </template>
