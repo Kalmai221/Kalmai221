@@ -9,7 +9,7 @@ import Section1 from './components/Section1.vue'
       <Title msg="An Average Intermediate Developer" />
       <svg height="5" width="100%">
         <line x1="0" y1="0" x2="20" y2="0"
-        style="stroke:rgb(0,0,0);stroke-width:1" />
+        style="stroke:rgb(128, 128, 128);stroke-width:1" />
        </svg>
     </div>
   </header>
