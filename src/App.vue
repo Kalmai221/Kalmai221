@@ -1,17 +1,17 @@
 <script setup>
 import Title from './components/Title.vue'
+import Section1 from './components/Section1.vue'
 </script>
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
     <div class="wrapper">
       <Title msg="An Average Intermediate Developer" />
     </div>
   </header>
 
   <main>
+    <Section1>
   </main>
 </template>
 
@@ -42,4 +42,5 @@ header {
     flex-wrap: wrap;
   }
 }
+  
 </style>
