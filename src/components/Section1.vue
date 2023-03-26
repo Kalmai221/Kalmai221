@@ -15,9 +15,11 @@ defineProps({
 
 <style scoped>
  .section {
-   border-color: green;
-   border-radius: 10px;
+   border-color: #41B883;
+   border-radius: 5px;
    text-align: center;
    margin: 0 20 0 20;
+   border-style: solid;
+   border-width: 3px;
  }
 </style>
