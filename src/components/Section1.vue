@@ -11,16 +11,11 @@ defineProps({
   <div class="section">
     <h2>What do I know?</h2>
     <br>
-    <div class="insection">
-      <h3>Website Development</h3>
-      <p>You can review the source code of this website at <a href="https://github.com/kalmai221/Kalmai221">Github</a> if you don't trust
-      me</p>
-    </div>
+    <h3>Website Development</h3>
+    <p>You can review the source code of this website at <a href="https://github.com/kalmai221/Kalmai221">Github</a> if you don't trust me</p>
     <br>
-    <div class="insection">
-      <h3>Discord Bot Development</h3>
-      <p>If you wish to view the bot in action, contact me on Discord at <b>Kalmai221#1905</b> and I can schedule a time for you to test the bot</p>
-    </div>
+    <h3>Discord Bot Development</h3>
+    <p>If you wish to view the bot in action, contact me on Discord at <b>Kalmai221#1905</b> and I can schedule a time for you to test the bot</p>
   </div>
 </template>
 
