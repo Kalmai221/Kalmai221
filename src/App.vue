@@ -11,7 +11,7 @@ import Section1 from './components/Section1.vue'
   </header>
 
   <main>
-    <Section1>
+    <Section1></Section1>
   </main>
 </template>
 
