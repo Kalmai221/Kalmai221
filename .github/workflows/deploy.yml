@@ -1,0 +1,24 @@
+name: Website Deployment
+env:
+  VERCEL_ORG_ID: YERIQWyZK05igbE4Z2SpsIvx
+  VERCEL_PROJECT_ID: prj_nWa7ZNH0KMh8O0lBDWZPaEIFycXs
+  
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    name: Build and Deploy Website
+    steps:
+      - name: GitHub Actions Loader
+        uses: actions/checkout@v3
+      - name: Install Required Packages 
+        run: npm install vercel
+      - name: Get Vercel Project Information
+        run: vercel pull --yes --environment=production --token=
+      - name: Build Project Artifacts
+        run: vercel build --prod --token=7ENWI6fcz75siafFSCR95rIn
+      - name: Deploy Project Artifacts to Vercel
+        run: vercel deploy --prebuilt --prod --token=7ENWI6fcz75siafFSCR95rIn 
+        
+        
