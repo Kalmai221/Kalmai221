@@ -25,11 +25,7 @@ I'm a Full Stack Developer passionate about building clean, efficient solutions 
 
 ### 📈 GitHub Ecosystem
 
-![Kurtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalmai221&show_icons=true&theme=radical&hide_border=true)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalmai221&layout=compact&theme=radical&hide_border=true)
+[![My GitHub Stats](https://helio-github-stats.vercel.app/api?username=Kalmai221&custom_title=My+GitHub+Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=470&hide_title=false&hide_rank=false&rank_icon=github&show_icons=false&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=long&commits_year=2026)](https://github.com/Kalmai221)
 
 ---
 
