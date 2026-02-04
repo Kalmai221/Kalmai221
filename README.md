@@ -2,6 +2,8 @@
 
 I'm a Full Stack Developer passionate about building clean, efficient solutions to real-world problems. I specialize in the Python ecosystem and modern frontend frameworks.
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Kalmai221&label=Profile+Views&style=for-the-badge)](https://github.com/Kalmai221)
+
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-klhportfolio.vercel.app-61DAFB?style=for-the-badge&logo=vercel&logoColor=white)](https://klhportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurtishopewell/)
 
