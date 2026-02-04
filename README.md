@@ -1,38 +1,76 @@
-# Hi, I'm Kurtis 👋
+# Kurtis Hopewell
 
-I'm a Full Stack Developer passionate about building clean, efficient solutions to real-world problems. I specialize in the Python ecosystem and modern frontend frameworks.
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Kalmai221&label=Profile+Views&style=for-the-badge)](https://github.com/Kalmai221)
+**Full-Stack Developer | Python Specialist | Problem Solver**
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-klhportfolio.vercel.app-61DAFB?style=for-the-badge&logo=vercel&logoColor=white)](https://klhportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurtishopewell/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-klhportfolio.vercel.app-2f80ed?style=for-the-badge&logo=vercel&logoColor=white)](https://klhportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kurtis%20Hopewell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurtishopewell/)
+[![GitHub](https://img.shields.io/badge/GitHub-@Kalmai221-181717?style=for-the-badge&logo=github)](https://github.com/Kalmai221)
+[![Views](https://komarev.com/ghpvc/?username=Kalmai221&label=Profile%20Views&style=for-the-badge&color=2f80ed)](https://github.com/Kalmai221)
 
----
-
-### 🛠 Tech Stack
-
-**Backend & Database**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Frontend & Styling**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
 ---
 
-### 📈 GitHub Ecosystem
+## About Me
 
-[![My GitHub Stats](https://helio-github-stats.vercel.app/api?username=Kalmai221&custom_title=My+GitHub+Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=470&hide_title=false&hide_rank=false&rank_icon=github&show_icons=false&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=long&commits_year=2026)](https://github.com/Kalmai221)
-
-[![Most used languages](https://helio-github-stats.vercel.app/api/top-langs?username=Kalmai221&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languages)](https://github.com/Kalmai221)
+Results-driven full-stack developer with a passion for crafting elegant, scalable solutions to complex problems. Specialized expertise in Python backend development and modern frontend frameworks, with a proven track record of delivering production-ready applications. I'm committed to clean code, thoughtful architecture, and creating measurable business impact.
 
 ---
 
-### 📫 Reach Me
-- **Portfolio:** [klhportfolio.vercel.app](https://klhportfolio.vercel.app)
-- **LinkedIn:** [In/kurtishopewell](https://www.linkedin.com/in/kurtishopewell/)
+## 🎯 Core Expertise
+
+| Area | Skills |
+|------|--------|
+| **Backend Architecture** | RESTful API design, server-side optimization, data modeling, authentication & authorization |
+| **Frontend Excellence** | Responsive design, component-driven architecture, performance optimization, UX implementation |
+| **Database Design** | MongoDB document modeling, data integrity, efficient querying and indexing |
+| **DevOps & Deployment** | CI/CD pipelines, containerization (Docker), cloud hosting, version control workflows |
+| **Software Practices** | Test-driven development, code review, documentation, agile methodologies |
+
+---
+
+## 💻 Technical Stack
+
+```
+Backend         → Python, Flask
+Frontend        → JavaScript, HTML5, CSS3
+Styling         → Tailwind CSS, Bootstrap
+Databases       → MongoDB
+Tools & DevOps  → Git, Docker, Vercel, GitHub
+```
+
+---
+
+## 🚀 Notable Projects
+
+Visit my [portfolio](https://klhportfolio.vercel.app) to explore:
+- **Production applications** with detailed case studies
+- **Technical decision-making** and architectural patterns
+- **Performance optimizations** and real-world challenges solved
+- **Full source code samples** and GitHub links
+
+---
+
+## 📊 GitHub Activity
+
+![Kurtis's GitHub Stats](https://helio-github-stats.vercel.app/api?username=Kalmai221&theme=dark&hide_border=true)
+
+![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=Kalmai221&layout=normal&stats_format=percentages&theme=dark&hide_border=true)
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+**Looking for collaboration, contract opportunities, or full-time roles**
+
+- 🌐 **Portfolio**: [klhportfolio.vercel.app](https://klhportfolio.vercel.app)
+- 💼 **LinkedIn**: [Kurtis Hopewell](https://www.linkedin.com/in/kurtishopewell/)
+- 📧 **GitHub**: [@Kalmai221](https://github.com/Kalmai221)
+
+*Available for tailored resume, code samples, or technical discussions*
+
+</div>
